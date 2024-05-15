@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833547582968",
+    "project_id": "awesome-practica-moviles",
+    "storage_bucket": "awesome-practica-moviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833547582968:android:d34b83e201127844fe2a0d",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhOHu5x6TQpWIeuI9jWajU3MR3KKFEtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
